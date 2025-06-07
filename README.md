@@ -1,14 +1,10 @@
 
-# Hi, I'm Albert Juma
 
-I'm an autodidact with a strong interest in Mathematics, Programming, and Algorithms.
+Hi, I’m Albert Juma.
 
-Currently learning Full Stack Web Development through freeCodeCamp.  
-I focus on building real-world tools, writing clean code, and solving problems through logic.  
-Belief: "From math to code, from logic to solutions—that's how I understand the world."  
-Open to collaborating on beginner-friendly, educational, or problem-solving projects.  
-Reach me at albertjuma450@gmail.com  
-I enjoy learning that challenges how I think—it's training for the mind.  
-Languages and Tools: JavaScript, HTML/CSS, Python, Git, Node.js, MongoDB  
-Also exploring local AI model tuning with Ollama.
+I’m a self-taught learner interested in Mathematics, Programming, and Algorithms. I’m currently learning Full Stack Web Development through freeCodeCamp.
+
+I enjoy solving problems with code and building simple, useful tools. I also like exploring new ideas that challenge how I think.
+
+I use JavaScript, HTML/CSS, Python, Git, Node.js, and MongoDB, and I’m currently trying out local AI tools like Ollama.
 
